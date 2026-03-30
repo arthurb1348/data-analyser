@@ -54,3 +54,7 @@ This project was built as part of my transition into data and Python development
 📌 Key Takeaway
 
 Ability to transform raw data into structured insights usable for decision-making.
+
+## 🇫🇷 Version française
+
+Ce projet permet d’analyser des jeux de données, de les nettoyer, de générer des indicateurs et de produire des visualisations afin d’en extraire des insights exploitables.
