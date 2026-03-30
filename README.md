@@ -61,6 +61,6 @@ Ability to transform raw data into structured insights usable for decision-makin
 
 ---
 
-##  🇫🇷   Version française
+## 🇫🇷 Version française
 
 Ce projet permet d’analyser des jeux de données, de les nettoyer, de générer des indicateurs et de produire des visualisations afin d’en extraire des insights exploitables.
