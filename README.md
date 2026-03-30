@@ -42,19 +42,25 @@ This project allows users to:
 
 ## ⚙️ Installation
 
-```bash
 git clone https://github.com/arthurb1348/data-analyzer.git
 cd data-analyzer
 pip install -r requirements.txt
 python main.py
-🎯 Purpose
+
+---
+
+## 🎯 Purpose
 
 This project was built as part of my transition into data and Python development, focusing on real-world data analysis and automation.
 
-📌 Key Takeaway
+---
+
+## 📌 Key Takeaway
 
 Ability to transform raw data into structured insights usable for decision-making.
 
-## 🇫🇷 Version française
+---
+
+##  🇫🇷  Version française
 
 Ce projet permet d’analyser des jeux de données, de les nettoyer, de générer des indicateurs et de produire des visualisations afin d’en extraire des insights exploitables.
