@@ -6,18 +6,18 @@ Python tool to clean, analyze, and extract actionable insights from datasets.
 
 ## 🚀 Overview
 
-This project allows users to:
-- Clean and preprocess datasets
-- Perform exploratory data analysis (EDA)
-- Generate key indicators (KPIs)
-- Visualize data through charts
+This project allows users to:  
+- Clean and preprocess datasets  
+- Perform exploratory data analysis (EDA)  
+- Generate key indicators (KPIs)  
+- Visualize data through charts  
 - Automate repetitive analysis tasks
 
 ---
 
 ## 💡 Example Use Cases
 
-- Sales performance analysis  
+- Sales performance analysis   
 - Customer behavior insights  
 - Data exploration for decision-making  
 
@@ -42,10 +42,10 @@ This project allows users to:
 
 ## ⚙️ Installation
 
-git clone https://github.com/arthurb1348/data-analyzer.git
-cd data-analyzer
-pip install -r requirements.txt
-python main.py
+git clone https://github.com/arthurb1348/data-analyzer.git  
+cd data-analyzer  
+pip install -r requirements.txt  
+python main.py  
 
 ---
 
