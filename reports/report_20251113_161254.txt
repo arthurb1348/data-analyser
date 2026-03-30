@@ -1,0 +1,28 @@
+=== DATASET ANALYZER REPORT ===
+Generated on: 2025-11-13 16:12:54.786889
+Number of rows: 10
+------------------------------
+
+Column: temperature
+  mean: 23.89
+  min: 18.2
+  max: 28
+  count: 10
+
+Column: humidity
+  mean: 58
+  min: 43
+  max: 78
+  count: 10
+
+Column: rainfall
+  mean: 0.41
+  min: 0
+  max: 1.8
+  count: 10
+
+Column: soil_moisture
+  mean: 37.62
+  min: 34.8
+  max: 42
+  count: 10
